@@ -1,4 +1,4 @@
 This is test repository
 This is develop branch!!!!!!!!!!!!!!!!
-hogehoge
-hugahuga
+this is for conflict
+this is for conflict
