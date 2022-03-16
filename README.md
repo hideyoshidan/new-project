@@ -6,3 +6,6 @@ conflict test
 conflict test
 conflict test
 conflict test
+
+
+Amend確認用
